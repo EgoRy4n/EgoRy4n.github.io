@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(31, 31, 31);
+}
+.main{
+    color:orange;
+    text-transform: uppercase;
+    padding:15px;
+    
+    right: 36%;
+    font-size: 30px;
+
+}
+.header{
+    display: flex;
+    text-transform: uppercase;
+}
+.header>a{
+    margin:5px 15px;
+    color:orange;
+    text-decoration: none;
+}
+.footer{
+    display: flex;
+  
+}
+.main2{
+    text-transform: uppercase;
+    padding:15px;
+    position:absolute ;
+    top:55%;
+    right: 44.5%;
+    font-size: 25px;
+    border: 1px solid yellow;
+    background-color: yellow;
+}
+.main2>a{
+    text-decoration: none;
+}
+.inner{
+    color:black;
+}
+.tg{
+    width:30px;
+    height:30px;
+    position: absolute;
+    bottom: 1%;
+}
+.vk{
+    width:30px;
+    height:30px;
+    position: absolute;
+    bottom: 2%;
+}
